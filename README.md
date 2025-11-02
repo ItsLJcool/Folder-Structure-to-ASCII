@@ -7,6 +7,7 @@ Here is an example line of the file:
 { "path": "data/", "desc": "Usually contains configuration, or information you want to store." },
 ```
 You can forego `desc` as it's optional.
+
 You can view your recent export in the `./exports/` folder. (if there is not one it will be created on export)
 
 You will need to install Bun to run this project. Install it here [Bun](https://bun.com)
@@ -20,7 +21,9 @@ bun .
 ```
 
 Im too lazy to make this a program so it's a TypeScript project run by Bun... Thanks @frostzzone for getting me into bun LMAO
+
 This was used to make ASCII art for a Documentation (that isn't released yet) for CodenameEngine's Mod Folder Structure.
+
 Here is what an export looks like:
 ```text
 └─ 📂 My Mod/                                
